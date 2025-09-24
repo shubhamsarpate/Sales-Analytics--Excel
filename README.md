@@ -9,14 +9,17 @@ This project delivers Sales and Finance reports to provide actionable insights t
 📈 Sales Report
 
 🎯 Objectives:
-1• Create a customer performance report
-2• Conduct a market vs. sales target comparison
+
+1.Create a customer performance report
+2. Conduct a market vs. sales target comparison
 
 📌 Purpose:
+
 • Empower businesses to monitor & evaluate sales activities
 • Identify sales patterns and track KPIs
 
 📑 Role of Reports:
+
 • Determine effective customer discounts
 • Facilitate stronger negotiations with consumers
 • Identify expansion opportunities in high-potential markets
@@ -24,15 +27,18 @@ This project delivers Sales and Finance reports to provide actionable insights t
 💰 Finance Report
 
 🎯 Objectives:
-1• Create Profit & Loss (P&L) reports by Fiscal Year & Month
-2• Create Profit & Loss (P&L) reports by Markets
+
+1. Create Profit & Loss (P&L) reports by Fiscal Year & Month
+2. Create Profit & Loss (P&L) reports by Markets
 
 📌 Purpose:
+
 • Evaluate overall financial performance
 • Support management decision-making
 • Enhance communication with stakeholders
 
 📑 Role of Reports:
+
 • Benchmark performance vs. peers & past periods
 • Provide a foundation for budgeting & forecasting
 • Align financial planning with strategic goals
