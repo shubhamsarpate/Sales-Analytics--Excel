@@ -12,7 +12,7 @@ This project delivers Sales and Finance reports to provide actionable insights t
 
 1.Create a customer performance report
 
-2. Conduct a market vs. sales target comparison
+2.Conduct a market vs. sales target comparison
 
 📌 Purpose:
 
